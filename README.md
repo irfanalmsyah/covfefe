@@ -14,6 +14,8 @@ python main.py
 3. Peta akan ditampilkan di browser.
 
 ## Anggota Kelompok
+|Nama|NIM|
+|--|--|
 |[Irfan Alamsyah](https://github.com/irfanalmsyah)|G6401211029|
 |[Hariz Krisha Muhammad](https://github.com/harizkrisha)|G6401211106|
 |[Naufal Akbar Rahardjo](https://github.com/rahardjorahardjo)|G6401211119|
